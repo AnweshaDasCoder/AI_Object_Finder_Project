@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+canvas {
+    border: 5px solid palevioletred;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 8px 8px 8px purple;
+}
+
+.copy_right_footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: palevioletred;
+  color: white;
+  text-align: center;
+  font-size: 17px;
+}
